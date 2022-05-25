@@ -8,7 +8,11 @@ Follow the process described in the course to `eb init`
 a new application and `eb create` a new environment to 
 deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
-### Custom Domain Name
 
-Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
-> !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+### My project github
+https://github.com/Blessed538/udacity-fullstack-project
+
+<!-- a link to the endpoint URL for a running elastic beanstalk deployment.: -->
+image-filter-starter-code-dev22222222222222.us-east-1.elasticbeanstalk.com
+
